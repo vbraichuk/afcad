@@ -14,12 +14,14 @@ def dec2dms(declist):
 		print "N{0:03d}.{1:02d}.{2:07.3f};E{3:03d}.{4:02d}.{5:07.3f};".format(N_d, N_m, N_s, E_d, E_m, E_s)
 
 def main():
-  with open("taxi.geojson", "r") as read_file:
+  with open("grass.geojson", "r") as read_file:
     geo = json.load(read_file)
 
   for items in geo['features']:
     print items['geometry']['type']
-    dec2dms(items['geometry']['coordinates'])
+    p_list = items['geometry']['coordinates']
+    for point in p_list:
+      dec2dms(point)
 
 	#dec2dms(polygon)
 
