@@ -4,7 +4,7 @@ import json
 import re
 
 def dms2dec(dms):
-	match = re.search(r'([0-9]+)([0-9]{2})([0-9]{2}\.[0-9]+)$', dms)
+	match = re.search(r'([0-9]+)\.([0-9]+)\.([0-9]+\.[0-9]+)', dms)
 	dms_d = float(match.group(1))
 	dms_m = float(match.group(2))
 	dms_s = float(match.group(3))
@@ -38,9 +38,9 @@ def main():
 	features = []
 	coordinates = []
 
-	with open("ukbb/afcad.txt", "r") as read_file:
+	with open("ukbb/ad_grass.txt", "r") as read_file:
 		for line in read_file:
-			match = re.search(r'([0-9]+\.[0-9]+)N\s([0-9]+\.[0-9]+)E', line)
+			match = re.search(r'N([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+);E([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)', line)
 			if match:
 				lat = dms2dec(match.group(1))
 				lon = dms2dec(match.group(2))
