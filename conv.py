@@ -12,7 +12,7 @@ def dec2dms(dec):
 	print "N{0:03d}.{1:02d}.{2:07.3f};E{3:03d}.{4:02d}.{5:07.3f};".format(N_d, N_m, N_s, E_d, E_m, E_s)
 
 def main():
-	with open("ukbb/afcad.geojson", "r") as read_file:
+	with open("ad_grass.geojson", "r") as read_file:
 		geo = json.load(read_file)
 
 	for items in geo['features']:
