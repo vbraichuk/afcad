@@ -1,58 +1,104 @@
 #!/usr/bin/python
 
+from xml.dom import minidom
 import json
 import re
 
-def dms2dec(dms):
-	match = re.search(r'([0-9]+)\.([0-9]+)\.([0-9]+\.[0-9]+)', dms)
-	dms_d = float(match.group(1))
-	dms_m = float(match.group(2))
-	dms_s = float(match.group(3))
-	return dms_d + dms_m/60 + dms_s/3600
-
-def print_data(data):
-	print """{
-  "type": "FeatureCollection",
-  "features": ["""
-
-	for polygon in data:
-		print """    {
+PLG_BEG = """    {{
       "type": "Feature",
-      "properties": {},
-      "geometry": {
+      "properties": {{
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "desc": "{}"
+      }},
+      "geometry": {{
         "type": "Polygon",
         "coordinates": [
           ["""
-		for i in range(len(polygon)-1):
-			print "            [ {0:10.07f}, {1:10.07f} ],".format(polygon[i][0], polygon[i][1])
-		print "            [ {0:10.07f}, {1:10.07f} ]".format(polygon[i + 1][0], polygon[i + 1][1])
-		print """          ]
-        ]
+
+LNE_BEG = """    {{
+      "type": "Feature",
+      "properties": {{
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "{}"
+      }},
+      "geometry": {{
+        "type": "LineString",
+        "coordinates": ["""
+
+ELM_END = """        ]
       }
     },"""
 
-	print """  ]
-}"""
+HDR = """{\n  "type": "FeatureCollection",\n  "features": ["""
+TAIL = """  ]\n}"""
+
+def dms2dec(dms):
+	match = re.search(r'\w([0-9]{3})([0-9]{2})([0-9]{5})', dms)
+	dms_d = float(match.group(1))
+	dms_m = float(match.group(2))
+	dms_s = float(match.group(3))/1000
+	return dms_d + dms_m/60 + dms_s/3600
+
+def print_geojson(elements, types = []):
+	print HDR
+
+	for element in elements:
+		if element['desc'] not in types and types:
+			continue
+		if element['type'] == "Polygon":
+			print PLG_BEG.format(element['desc'])
+		if element['type'] == "LineString":
+			print LNE_BEG.format(element['desc'])
+		for point in element['coordinates']:
+			print "            [ {}, {} ], ".format(dms2dec(point['lon']),
+													dms2dec(point['lat']))
+		print "            [ {}, {} ] ".format(dms2dec(element['coordinates'][0]['lon']),
+												dms2dec(element['coordinates'][0]['lat']))
+		if element['type'] == "Polygon":
+			print "          ]"
+		print ELM_END
+
+	print TAIL
+
+def print_aurora(elements, types = []):
+	for element in elements:
+		if element['desc'] not in types and types:
+			continue
+		print "// {} - {}".format(element['desc'], element['type'])
+		for point in element['coordinates']:
+			print point['lon'], point['lat']
 
 def main():
-	features = []
-	coordinates = []
+	f_xml = minidom.parse('ukbb/afcad_ukbb.map')
+	paths = f_xml.getElementsByTagName('path')
 
-	with open("ukbb/ad_grass.txt", "r") as read_file:
-		for line in read_file:
-			match = re.search(r'N([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+);E([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)', line)
-			if match:
-				lat = dms2dec(match.group(1))
-				lon = dms2dec(match.group(2))
-				coordinates.append([lon, lat])
-			else:
-				#print features
-				coordinates = []
-				features.append(coordinates)
+	elements = []
 
-	features.append(coordinates)
+	for path in paths:
+		element = {}
+		coordinates = []
+		if path.hasAttribute('fill_color'):
+			element['type'] = "Polygon"
+			element['desc'] = path.attributes['fill_color'].value
+		else:
+			element['type'] = "LineString"
+			element['desc'] = path.attributes['stroke_color'].value
+	
+		points =  path.getElementsByTagName('point')
+		for point in points:
+			coordinates.append( {'lon':point.attributes['lon'].value, 'lat':point.attributes['lat'].value } )
 
-	print_data(features)
+		element['coordinates'] = coordinates
+		elements.append(element)
+
+	print_geojson(elements, ["ad_grass", "ad_stand", "ad_twy"])
+	#print_aurora(elements)
 
 if __name__== "__main__":
 	main()
