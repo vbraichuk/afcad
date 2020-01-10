@@ -13958,6 +13958,38 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.903669297695156,
+          50.36060970209423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "M1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.908172726631168,
+          50.36040094441098
+        ]
+      }
     }
   ]
 }
