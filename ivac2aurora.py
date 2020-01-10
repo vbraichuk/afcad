@@ -97,7 +97,7 @@ def main():
 		element['coordinates'] = coordinates
 		elements.append(element)
 
-	print_geojson(elements, ["ad_grass", "ad_stand", "ad_twy"])
+	print_geojson(elements, ["ad_stand"])
 	#print_aurora(elements)
 
 if __name__== "__main__":
