@@ -58,8 +58,8 @@ def print_geojson(elements, types = []):
 		for point in element['coordinates']:
 			print "            [ {}, {} ], ".format(dms2dec(point['lon']),
 													dms2dec(point['lat']))
-		print "            [ {}, {} ] ".format(dms2dec(element['coordinates'][0]['lon']),
-												dms2dec(element['coordinates'][0]['lat']))
+		#print "            [ {}, {} ] ".format(dms2dec(element['coordinates'][0]['lon']),
+		#										dms2dec(element['coordinates'][0]['lat']))
 		if element['type'] == "Polygon":
 			print "          ]"
 		print ELM_END
@@ -75,14 +75,15 @@ def print_aurora(elements, types = []):
 			print point['lon'], point['lat']
 
 def main():
-	f_xml = minidom.parse('ukbb/input/afcad_ukbb.map')
-	paths = f_xml.getElementsByTagName('path')
+	f_xml = minidom.parse('country/input/state.map')
+	paths = f_xml.getElementsByTagName('lines')
 
 	elements = []
 
 	for path in paths:
 		element = {}
 		coordinates = []
+
 		if path.hasAttribute('fill_color'):
 			element['type'] = "Polygon"
 			element['desc'] = path.attributes['fill_color'].value
@@ -91,13 +92,15 @@ def main():
 			element['desc'] = path.attributes['stroke_color'].value
 	
 		points =  path.getElementsByTagName('point')
+
 		for point in points:
 			coordinates.append( {'lon':point.attributes['lon'].value, 'lat':point.attributes['lat'].value } )
 
 		element['coordinates'] = coordinates
 		elements.append(element)
 
-	print_geojson(elements, ["ad_stand"])
+	#print elements
+	print_geojson(elements, 'country_bdry')
 	#print_aurora(elements)
 
 if __name__== "__main__":
