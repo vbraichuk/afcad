@@ -196,16 +196,17 @@ def dms2dec(dms):
       dms_s = float(match.group(3))
       return dms_d + dms_m/60 + dms_s/3600
 
-#481129N 0295304E
-print dms2dec("0291722.0")
-print dms2dec("474819.0")
-print dms2dec("0295304.0")
-print dms2dec("481129.0")
+#504942N 0341300E
+#511400N 0342700E
+print dms2dec("0341300.0")
+print dms2dec("504942.0")
+print dms2dec("0342700.0")
+print dms2dec("511400.0")
 
 i = len(c)
 
 while i > 0:
-      print c[i-1]
+#      print c[i-1]
       i -= 1
 
 

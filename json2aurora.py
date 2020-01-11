@@ -9,10 +9,10 @@ def dec2dms(dec):
 	E_d = int(dec[0])
 	E_m = int((dec[0] - E_d) * 60)
 	E_s = (dec[0] - E_d - E_m / float(60)) * 3600
-	return "N{0:03d}.{1:02d}.{2:07.3f};E{3:03d}.{4:02d}.{5:07.3f};".format(N_d, N_m, N_s, E_d, E_m, E_s)
+	return "N{0:03d}.{1:02d}.{2:06.3f};E{3:03d}.{4:02d}.{5:06.3f};".format(N_d, N_m, N_s, E_d, E_m, E_s)
 
 def main():
-	with open("fir.geojson", "r") as read_file:
+	with open("fir2.geojson", "r") as read_file:
 		data = json.load(read_file)
 
 	for feature in data['features']:
