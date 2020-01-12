@@ -14582,6 +14582,38 @@
           50.33585011621783
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.901274085044864,
+          50.3289570349319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.901872217655182,
+          50.33649211833243
+        ]
+      }
     }
   ]
 }
