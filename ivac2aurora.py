@@ -55,11 +55,11 @@ def print_geojson(elements, types = []):
 			print PLG_BEG.format(element['desc'])
 		if element['type'] == "LineString":
 			print LNE_BEG.format(element['desc'])
-		for point in element['coordinates']:
+		for point in element['coordinates'][:-1]:
 			print "            [ {}, {} ], ".format(dms2dec(point['lon']),
 													dms2dec(point['lat']))
-		#print "            [ {}, {} ] ".format(dms2dec(element['coordinates'][0]['lon']),
-		#										dms2dec(element['coordinates'][0]['lat']))
+		print "            [ {}, {} ] ".format(dms2dec(element['coordinates'][-1]['lon']),
+												dms2dec(element['coordinates'][-1]['lat']))
 		if element['type'] == "Polygon":
 			print "          ]"
 		print ELM_END
@@ -75,7 +75,7 @@ def print_aurora(elements, types = []):
 			print point['lon'], point['lat']
 
 def main():
-	f_xml = minidom.parse('country/input/state.map')
+	f_xml = minidom.parse('country/input/dnipro1.map.xml')
 	paths = f_xml.getElementsByTagName('lines')
 
 	elements = []
@@ -99,8 +99,9 @@ def main():
 		element['coordinates'] = coordinates
 		elements.append(element)
 
-	#print elements
-	print_geojson(elements, 'country_bdry')
+	#for element in elements:
+	#	print element['desc']
+	print_geojson(elements, 'river')
 	#print_aurora(elements)
 
 if __name__== "__main__":
