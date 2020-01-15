@@ -2106,7 +2106,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -2116,7 +2121,7 @@
           ],
           [
             30.462161600589752,
-            50.40334290308907
+            50.403332645585216
           ]
         ]
       }
