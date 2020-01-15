@@ -1823,6 +1823,156 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "TWY_2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.457679629325867,
+          50.40485244153388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "TWY_2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.447208285331726,
+          50.40922179707806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "twy"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.43488085269928,
+            50.404561820655616
+          ],
+          [
+            30.434789657592773,
+            50.40442847636208
+          ],
+          [
+            30.434811115264893,
+            50.40435667543322
+          ],
+          [
+            30.4349023103714,
+            50.404308808086896
+          ],
+          [
+            30.436694025993347,
+            50.403794872148175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "twy"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.434789322316643,
+            50.40442869005515
+          ],
+          [
+            30.434579104185104,
+            50.40437120658237
+          ],
+          [
+            30.43429546058178,
+            50.40431479150783
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "twy"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.43481077998877,
+            50.404356889126646
+          ],
+          [
+            30.43470986187458,
+            50.40437804476865
+          ],
+          [
+            30.43457843363285,
+            50.40437120658237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "TWY_6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.435572862625122,
+          50.40426435979344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "desc": "TWY_4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.434972047805786,
+          50.40365575588986
+        ]
+      }
     }
   ]
 }
