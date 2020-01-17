@@ -75,7 +75,7 @@ def print_aurora(elements, types = []):
 			print point['lon'], point['lat']
 
 def main():
-	f_xml = minidom.parse('./ukll/afcad_ukll.map')
+	f_xml = minidom.parse('ukll/afcad_UKLL.map')
 	paths = f_xml.getElementsByTagName('path')
 
 	elements = []
