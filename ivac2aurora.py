@@ -99,8 +99,8 @@ def main():
 		element['coordinates'] = coordinates
 		elements.append(element)
 
-	for element in elements:
-		print element['desc']
+	#for element in elements:
+	#	print element['desc']
 	print_geojson(elements, 'ad_apron')
 	#print_aurora(elements)
 
