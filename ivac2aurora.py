@@ -101,7 +101,7 @@ def main():
 
 	#for element in elements:
 	#	print element['desc']
-	print_geojson(elements, 'ad_apron')
+	print_geojson(elements, 'ad_stand')
 	#print_aurora(elements)
 
 if __name__== "__main__":
