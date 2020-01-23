@@ -860,12 +860,100 @@
         "type": "LineString",
         "coordinates": [
           [
-            30.683146119117737,
-            46.41517945866727
+            30.68378984928131,
+            46.41531629848856
           ],
           [
-            30.68321049213409,
-            46.41500748381032
+            30.683870315551758,
+            46.41514432406315
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.67684292793274,
+            46.4347311272074
+          ],
+          [
+            30.677068233489987,
+            46.43477549181333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.67763954401016,
+            46.43453888016433
+          ],
+          [
+            30.677706599235535,
+            46.434378057597726
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.67719429731369,
+            46.43390852692916
+          ],
+          [
+            30.677419602870938,
+            46.43395474075711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.6764942407608,
+            46.43428932770262
+          ],
+          [
+            30.676550567150116,
+            46.434152535498
           ]
         ]
       }
