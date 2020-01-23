@@ -4137,7 +4137,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "desc": "MAIN"
+        "desc": "TWY_MAIN"
       },
       "geometry": {
         "type": "Point",
@@ -4201,7 +4201,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "desc": "MAIN"
+        "desc": "TWY_MAIN"
       },
       "geometry": {
         "type": "Point",
@@ -4233,7 +4233,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "desc": "TWY_5"
+        "desc": "TWY_4"
       },
       "geometry": {
         "type": "Point",
@@ -4249,7 +4249,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "desc": "TWY_6"
+        "desc": "TWY_5"
       },
       "geometry": {
         "type": "Point",
