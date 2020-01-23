@@ -759,6 +759,116 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.67270964384079,
+            46.43922840538061
+          ],
+          [
+            30.672865211963654,
+            46.43887721329446
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.674986839294434,
+            46.43398246903509
+          ],
+          [
+            30.675051212310787,
+            46.43383273616643
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.67791849374771,
+            46.42715534115422
+          ],
+          [
+            30.677985548973087,
+            46.42699449679957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.68164005875587,
+            46.418576313232556
+          ],
+          [
+            30.68172991275787,
+            46.41879635258333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "desc": "stopbar"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.683146119117737,
+            46.41517945866727
+          ],
+          [
+            30.68321049213409,
+            46.41500748381032
+          ]
+        ]
+      }
     }
   ]
 }
