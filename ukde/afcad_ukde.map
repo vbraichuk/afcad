@@ -1,0 +1,2121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maps>
+	<!-- <map group="UKDE" id="Appron" layer="200" name="Appron" text="false" visible="true" threshold="50" > -->
+	<map group="AFCAD" id="AFCAD_UKDD" layer="200" name="UKDD" text="true" visible="false" threshold="50" >
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475219542" lon="E0351803582"/>
+			<point lat="N0475223563" lon="E0351811973"/>
+			<point lat="N0475224070" lon="E0351811512"/>
+			<point lat="N0475223808" lon="E0351810958"/>
+			<point lat="N0475223419" lon="E0351811033"/>
+			<point lat="N0475223138" lon="E0351810461"/>
+			<point lat="N0475223505" lon="E0351810079"/>
+			<point lat="N0475223113" lon="E0351809345"/>
+			<point lat="N0475224297" lon="E0351808114"/>
+			<point lat="N0475224132" lon="E0351807725"/>
+			<point lat="N0475224430" lon="E0351807430"/>
+			<point lat="N0475224603" lon="E0351807797"/>
+			<point lat="N0475225049" lon="E0351807380"/>
+			<point lat="N0475225067" lon="E0351807142"/>
+			<point lat="N0475224031" lon="E0351805191"/>
+			<point lat="N0475223915" lon="E0351805119"/>
+			<point lat="N0475223642" lon="E0351804572"/>
+			<point lat="N0475223595" lon="E0351804222"/>
+			<point lat="N0475223653" lon="E0351803887"/>
+			<point lat="N0475223725" lon="E0351803722"/>
+			<point lat="N0475222364" lon="E0351804669"/>
+			<point lat="N0475222969" lon="E0351805839"/>
+			<point lat="N0475222702" lon="E0351806170"/>
+			<point lat="N0475222486" lon="E0351805756"/>
+			<point lat="N0475221608" lon="E0351806688"/>
+			<point lat="N0475220243" lon="E0351803862"/>
+			<point lat="N0475220650" lon="E0351803427"/>
+			<point lat="N0475219221" lon="E0351800604"/>
+			<point lat="N0475219477" lon="E0351800208"/>
+			<point lat="N0475219293" lon="E0351759391"/>
+			<point lat="N0475221086" lon="E0351757368"/>
+			<point lat="N0475220855" lon="E0351756471"/>
+			<point lat="N0475220776" lon="E0351755643"/>
+			<point lat="N0475220593" lon="E0351755201"/>
+			<point lat="N0475221190" lon="E0351754632"/>
+			<point lat="N0475220672" lon="E0351753613"/>
+			<point lat="N0475220247" lon="E0351753876"/>
+			<point lat="N0475219696" lon="E0351753721"/>
+			<point lat="N0475219045" lon="E0351752504"/>
+			<point lat="N0475219109" lon="E0351752191"/>
+			<point lat="N0475218354" lon="E0351751608"/>
+			<point lat="N0475217461" lon="E0351750388"/>
+			<point lat="N0475218004" lon="E0351751712"/>
+			<point lat="N0475218548" lon="E0351752620"/>
+			<point lat="N0475218238" lon="E0351754009"/>
+			<point lat="N0475217864" lon="E0351754430"/>
+			<point lat="N0475217558" lon="E0351755370"/>
+			<point lat="N0475217389" lon="E0351755532"/>
+			<point lat="N0475217284" lon="E0351755845"/>
+			<point lat="N0475217306" lon="E0351756533"/>
+			<point lat="N0475218544" lon="E0351800054"/>
+			<point lat="N0475216827" lon="E0351801612"/>
+			<point lat="N0475218112" lon="E0351804849"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475129026" lon="E0351813719"/>
+			<point lat="N0475129804" lon="E0351813575"/>
+			<point lat="N0475130693" lon="E0351814014"/>
+			<point lat="N0475130780" lon="E0351814328"/>
+			<point lat="N0475132320" lon="E0351815238"/>
+			<point lat="N0475132849" lon="E0351813186"/>
+			<point lat="N0475131341" lon="E0351812272"/>
+			<point lat="N0475131114" lon="E0351812362"/>
+			<point lat="N0475130513" lon="E0351811847"/>
+			<point lat="N0475129995" lon="E0351810810"/>
+			<point lat="N0475130466" lon="E0351808823"/>
+			<point lat="N0475132749" lon="E0351803286"/>
+			<point lat="N0475134714" lon="E0351805425"/>
+			<point lat="N0475134916" lon="E0351805090"/>
+			<point lat="N0475135189" lon="E0351805317"/>
+			<point lat="N0475135517" lon="E0351805335"/>
+			<point lat="N0475136687" lon="E0351806796"/>
+			<point lat="N0475137112" lon="E0351807009"/>
+			<point lat="N0475139211" lon="E0351809421"/>
+			<point lat="N0475139459" lon="E0351809298"/>
+			<point lat="N0475140190" lon="E0351807941"/>
+			<point lat="N0475140168" lon="E0351807624"/>
+			<point lat="N0475138231" lon="E0351805515"/>
+			<point lat="N0475137638" lon="E0351805461"/>
+			<point lat="N0475137393" lon="E0351805778"/>
+			<point lat="N0475135715" lon="E0351803769"/>
+			<point lat="N0475135701" lon="E0351803434"/>
+			<point lat="N0475135441" lon="E0351803153"/>
+			<point lat="N0475135089" lon="E0351803031"/>
+			<point lat="N0475133987" lon="E0351801850"/>
+			<point lat="N0475133958" lon="E0351800921"/>
+			<point lat="N0475136252" lon="E0351756939"/>
+			<point lat="N0475136730" lon="E0351757170"/>
+			<point lat="N0475138772" lon="E0351800237"/>
+			<point lat="N0475139726" lon="E0351758938"/>
+			<point lat="N0475137677" lon="E0351755226"/>
+			<point lat="N0475136817" lon="E0351755420"/>
+			<point lat="N0475136550" lon="E0351755363"/>
+			<point lat="N0475136248" lon="E0351754880"/>
+			<point lat="N0475136226" lon="E0351754437"/>
+			<point lat="N0475134282" lon="E0351751223"/>
+			<point lat="N0475133425" lon="E0351752335"/>
+			<point lat="N0475135891" lon="E0351756436"/>
+			<point lat="N0475135902" lon="E0351756918"/>
+			<point lat="N0475133350" lon="E0351801544"/>
+			<point lat="N0475132382" lon="E0351803477"/>
+			<point lat="N0475131946" lon="E0351803520"/>
+			<point lat="N0475129296" lon="E0351801076"/>
+			<point lat="N0475129145" lon="E0351800809"/>
+			<point lat="N0475129152" lon="E0351800424"/>
+			<point lat="N0475129879" lon="E0351758487"/>
+			<point lat="N0475130146" lon="E0351758430"/>
+			<point lat="N0475130599" lon="E0351758750"/>
+			<point lat="N0475131680" lon="E0351756508"/>
+			<point lat="N0475131496" lon="E0351756184"/>
+			<point lat="N0475131780" lon="E0351755586"/>
+			<point lat="N0475131802" lon="E0351754427"/>
+			<point lat="N0475133879" lon="E0351751741"/>
+			<point lat="N0475132522" lon="E0351749228"/>
+			<point lat="N0475130682" lon="E0351751910"/>
+			<point lat="N0475130528" lon="E0351753779"/>
+			<point lat="N0475130402" lon="E0351754995"/>
+			<point lat="N0475128317" lon="E0351800115"/>
+			<point lat="N0475128018" lon="E0351800954"/>
+			<point lat="N0475128303" lon="E0351801346"/>
+			<point lat="N0475127554" lon="E0351802977"/>
+			<point lat="N0475127457" lon="E0351802984"/>
+			<point lat="N0475126380" lon="E0351805036"/>
+			<point lat="N0475126589" lon="E0351805367"/>
+			<point lat="N0475126315" lon="E0351805903"/>
+			<point lat="N0475127284" lon="E0351806861"/>
+			<point lat="N0475127511" lon="E0351806357"/>
+			<point lat="N0475127709" lon="E0351806292"/>
+			<point lat="N0475128461" lon="E0351804917"/>
+			<point lat="N0475128504" lon="E0351804417"/>
+			<point lat="N0475128375" lon="E0351803855"/>
+			<point lat="N0475128897" lon="E0351802771"/>
+			<point lat="N0475129303" lon="E0351802728"/>
+			<point lat="N0475130110" lon="E0351803563"/>
+			<point lat="N0475128029" lon="E0351808370"/>
+			<point lat="N0475129034" lon="E0351809255"/>
+			<point lat="N0475129253" lon="E0351810058"/>
+			<point lat="N0475129303" lon="E0351810839"/>
+			<point lat="N0475129451" lon="E0351811206"/>
+			<point lat="N0475129826" lon="E0351809817"/>
+			<point lat="N0475129602" lon="E0351809925"/>
+			<point lat="N0475129422" lon="E0351809792"/>
+			<point lat="N0475129325" lon="E0351809327"/>
+			<point lat="N0475129357" lon="E0351808769"/>
+			<point lat="N0475130956" lon="E0351804870"/>
+			<point lat="N0475131204" lon="E0351804755"/>
+			<point lat="N0475131312" lon="E0351804957"/>
+			<point lat="N0475131348" lon="E0351805648"/>
+			<point lat="N0475131377" lon="E0351806073"/>
+			<point lat="N0475129599" lon="E0351810710"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475159392" lon="E0351735476"/>
+			<point lat="N0475158906" lon="E0351744678"/>
+			<point lat="N0475201905" lon="E0351743710"/>
+			<point lat="N0475202938" lon="E0351743407"/>
+			<point lat="N0475203464" lon="E0351743292"/>
+			<point lat="N0475204159" lon="E0351743278"/>
+			<point lat="N0475204800" lon="E0351743310"/>
+			<point lat="N0475206261" lon="E0351743515"/>
+			<point lat="N0475207024" lon="E0351743681"/>
+			<point lat="N0475207910" lon="E0351743850"/>
+			<point lat="N0475208291" lon="E0351743864"/>
+			<point lat="N0475208922" lon="E0351743983"/>
+			<point lat="N0475209775" lon="E0351743983"/>
+			<point lat="N0475211528" lon="E0351744196"/>
+			<point lat="N0475212604" lon="E0351744213"/>
+			<point lat="N0475212651" lon="E0351743594"/>
+			<point lat="N0475212216" lon="E0351743396"/>
+			<point lat="N0475211485" lon="E0351743213"/>
+			<point lat="N0475210642" lon="E0351742979"/>
+			<point lat="N0475209364" lon="E0351742644"/>
+			<point lat="N0475207996" lon="E0351742460"/>
+			<point lat="N0475207215" lon="E0351742464"/>
+			<point lat="N0475206319" lon="E0351742561"/>
+			<point lat="N0475205264" lon="E0351742478"/>
+			<point lat="N0475204310" lon="E0351742363"/>
+			<point lat="N0475203684" lon="E0351742295"/>
+			<point lat="N0475202179" lon="E0351741945"/>
+			<point lat="N0475200404" lon="E0351742377"/>
+			<point lat="N0475200746" lon="E0351735725"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475142408" lon="E0351749858"/>
+			<point lat="N0475143081" lon="E0351750107"/>
+			<point lat="N0475143365" lon="E0351750856"/>
+			<point lat="N0475144334" lon="E0351753321"/>
+			<point lat="N0475145388" lon="E0351752382"/>
+			<point lat="N0475144301" lon="E0351749145"/>
+			<point lat="N0475144413" lon="E0351748073"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475141389" lon="E0351750866"/>
+			<point lat="N0475142127" lon="E0351752443"/>
+			<point lat="N0475142073" lon="E0351752810"/>
+			<point lat="N0475143297" lon="E0351755489"/>
+			<point lat="N0475144031" lon="E0351754816"/>
+			<point lat="N0475142724" lon="E0351752342"/>
+			<point lat="N0475142386" lon="E0351752224"/>
+			<point lat="N0475141702" lon="E0351750510"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475142379" lon="E0351749127"/>
+			<point lat="N0475141832" lon="E0351749041"/>
+			<point lat="N0475141511" lon="E0351748569"/>
+			<point lat="N0475141540" lon="E0351747997"/>
+			<point lat="N0475144006" lon="E0351746240"/>
+			<point lat="N0475143401" lon="E0351744401"/>
+			<point lat="N0475143182" lon="E0351744541"/>
+			<point lat="N0475142742" lon="E0351743270"/>
+			<point lat="N0475142876" lon="E0351743011"/>
+			<point lat="N0475142224" lon="E0351741114"/>
+			<point lat="N0475140928" lon="E0351742255"/>
+			<point lat="N0475141943" lon="E0351745355"/>
+			<point lat="N0475141821" lon="E0351745841"/>
+			<point lat="N0475140334" lon="E0351746885"/>
+			<point lat="N0475140006" lon="E0351747241"/>
+			<point lat="N0475140265" lon="E0351747903"/>
+			<point lat="N0475140150" lon="E0351748260"/>
+			<point lat="N0475139754" lon="E0351748717"/>
+			<point lat="N0475140208" lon="E0351749513"/>
+			<point lat="N0475140687" lon="E0351748944"/>
+			<point lat="N0475140809" lon="E0351748998"/>
+			<point lat="N0475141004" lon="E0351749243"/>
+			<point lat="N0475141029" lon="E0351750416"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475225842" lon="E0351808780"/>
+			<point lat="N0475224981" lon="E0351809748"/>
+			<point lat="N0475224664" lon="E0351808971"/>
+			<point lat="N0475224981" lon="E0351808639"/>
+			<point lat="N0475224794" lon="E0351808243"/>
+			<point lat="N0475224513" lon="E0351808542"/>
+			<point lat="N0475224297" lon="E0351808114"/>
+			<point lat="N0475224538" lon="E0351807840"/>
+			<point lat="N0475225060" lon="E0351807361"/>
+			<point lat="N0475225096" lon="E0351807491"/>
+			<point lat="N0475225276" lon="E0351807614"/>
+			<point lat="N0475225395" lon="E0351807588"/>
+			<point lat="N0475225514" lon="E0351807487"/>
+			<point lat="N0475225622" lon="E0351807297"/>
+			<point lat="N0475225643" lon="E0351807156"/>
+			<point lat="N0475225615" lon="E0351807063"/>
+			<point lat="N0475225557" lon="E0351807023"/>
+			<point lat="N0475225168" lon="E0351807027"/>
+			<point lat="N0475225104" lon="E0351807074"/>
+			<point lat="N0475225064" lon="E0351807156"/>
+			<point lat="N0475224020" lon="E0351805183"/>
+			<point lat="N0475224157" lon="E0351805021"/>
+			<point lat="N0475224200" lon="E0351804859"/>
+			<point lat="N0475224207" lon="E0351804445"/>
+			<point lat="N0475224247" lon="E0351803931"/>
+			<point lat="N0475224218" lon="E0351803729"/>
+			<point lat="N0475224088" lon="E0351803614"/>
+			<point lat="N0475223865" lon="E0351803621"/>
+			<point lat="N0475222378" lon="E0351804669"/>
+			<point lat="N0475222655" lon="E0351804330"/>
+			<point lat="N0475222047" lon="E0351803132"/>
+			<point lat="N0475220604" lon="E0351804683"/>
+			<point lat="N0475220409" lon="E0351804273"/>
+			<point lat="N0475222926" lon="E0351801605"/>
+			<point lat="N0475221154" lon="E0351757886"/>
+			<point lat="N0475221586" lon="E0351757411"/>
+			<point lat="N0475221673" lon="E0351757858"/>
+			<point lat="N0475223455" lon="E0351801569"/>
+			<point lat="N0475223534" lon="E0351801486"/>
+			<point lat="N0475223397" lon="E0351801090"/>
+			<point lat="N0475223570" lon="E0351800774"/>
+			<point lat="N0475223012" lon="E0351759395"/>
+			<point lat="N0475224574" lon="E0351757552"/>
+			<point lat="N0475225431" lon="E0351759316"/>
+			<point lat="N0475224895" lon="E0351759949"/>
+			<point lat="N0475225021" lon="E0351800277"/>
+			<point lat="N0475225294" lon="E0351800482"/>
+			<point lat="N0475226079" lon="E0351800889"/>
+			<point lat="N0475226047" lon="E0351801188"/>
+			<point lat="N0475225204" lon="E0351800809"/>
+			<point lat="N0475225143" lon="E0351801004"/>
+			<point lat="N0475225496" lon="E0351801180"/>
+			<point lat="N0475224877" lon="E0351801846"/>
+			<point lat="N0475224596" lon="E0351801184"/>
+			<point lat="N0475224430" lon="E0351801000"/>
+			<point lat="N0475224211" lon="E0351801299"/>
+			<point lat="N0475224452" lon="E0351801792"/>
+			<point lat="N0475224167" lon="E0351802145"/>
+			<point lat="N0475224034" lon="E0351802134"/>
+			<point lat="N0475223138" lon="E0351803092"/>
+			<point lat="N0475223123" lon="E0351803178"/>
+			<point lat="N0475223131" lon="E0351803236"/>
+			<point lat="N0475223213" lon="E0351803398"/>
+			<point lat="N0475223264" lon="E0351803434"/>
+			<point lat="N0475223325" lon="E0351803387"/>
+			<point lat="N0475224257" lon="E0351802426"/>
+			<point lat="N0475224297" lon="E0351802394"/>
+			<point lat="N0475224632" lon="E0351802077"/>
+			<point lat="N0475224704" lon="E0351802177"/>
+			<point lat="N0475224920" lon="E0351803254"/>
+			<point lat="N0475225057" lon="E0351803672"/>
+			<point lat="N0475224862" lon="E0351803700"/>
+			<point lat="N0475224833" lon="E0351803830"/>
+			<point lat="N0475224884" lon="E0351803941"/>
+			<point lat="N0475224985" lon="E0351803945"/>
+			<point lat="N0475225683" lon="E0351805407"/>
+			<point lat="N0475225680" lon="E0351805673"/>
+			<point lat="N0475225762" lon="E0351805709"/>
+			<point lat="N0475225845" lon="E0351805623"/>
+			<point lat="N0475225867" lon="E0351805237"/>
+			<point lat="N0475226320" lon="E0351805821"/>
+			<point lat="N0475226756" lon="E0351805799"/>
+			<point lat="N0475226875" lon="E0351806116"/>
+			<point lat="N0475226893" lon="E0351806375"/>
+			<point lat="N0475226976" lon="E0351806613"/>
+			<point lat="N0475227130" lon="E0351806703"/>
+			<point lat="N0475227890" lon="E0351805885"/>
+			<point lat="N0475227872" lon="E0351805598"/>
+			<point lat="N0475227775" lon="E0351805353"/>
+			<point lat="N0475227595" lon="E0351805302"/>
+			<point lat="N0475227426" lon="E0351805133"/>
+			<point lat="N0475227710" lon="E0351804647"/>
+			<point lat="N0475227998" lon="E0351805000"/>
+			<point lat="N0475228502" lon="E0351805893"/>
+			<point lat="N0475227141" lon="E0351807282"/>
+			<point lat="N0475225842" lon="E0351808776"/>
+			<point lat="N0475225741" lon="E0351808575"/>
+			<point lat="N0475226691" lon="E0351807473"/>
+			<point lat="N0475226335" lon="E0351806616"/>
+			<point lat="N0475226223" lon="E0351807009"/>
+			<point lat="N0475225777" lon="E0351808042"/>
+			<point lat="N0475225431" lon="E0351808449"/>
+			<point lat="N0475225442" lon="E0351808715"/>
+			<point lat="N0475225471" lon="E0351808827"/>
+			<point lat="N0475225564" lon="E0351808787"/>
+			<point lat="N0475225741" lon="E0351808578"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475226497" lon="E0351805587"/>
+			<point lat="N0475226846" lon="E0351805497"/>
+			<point lat="N0475226634" lon="E0351805403"/>
+			<point lat="N0475226518" lon="E0351805180"/>
+			<point lat="N0475227022" lon="E0351804528"/>
+			<point lat="N0475225734" lon="E0351801882"/>
+			<point lat="N0475225449" lon="E0351802206"/>
+			<point lat="N0475225345" lon="E0351801933"/>
+			<point lat="N0475225356" lon="E0351801562"/>
+			<point lat="N0475224967" lon="E0351802030"/>
+			<point lat="N0475225204" lon="E0351802138"/>
+			<point lat="N0475225327" lon="E0351802332"/>
+			<point lat="N0475225075" lon="E0351802638"/>
+			<point lat="N0475226385" lon="E0351805345"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227793" lon="E0351802519"/>
+			<point lat="N0475227663" lon="E0351802501"/>
+			<point lat="N0475227389" lon="E0351801933"/>
+			<point lat="N0475227426" lon="E0351801735"/>
+			<point lat="N0475227044" lon="E0351801728"/>
+			<point lat="N0475227663" lon="E0351803070"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475224636" lon="E0351802080"/>
+			<point lat="N0475224448" lon="E0351801789"/>
+			<point lat="N0475224164" lon="E0351802145"/>
+			<point lat="N0475224200" lon="E0351802170"/>
+			<point lat="N0475224272" lon="E0351802304"/>
+			<point lat="N0475224290" lon="E0351802401"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475221025" lon="E0351805544"/>
+			<point lat="N0475221558" lon="E0351804946"/>
+			<point lat="N0475221172" lon="E0351804068"/>
+			<point lat="N0475220884" lon="E0351804352"/>
+			<point lat="N0475221226" lon="E0351805029"/>
+			<point lat="N0475220931" lon="E0351805335"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475149078" lon="E0351902312"/>
+			<point lat="N0475148182" lon="E0351901747"/>
+			<point lat="N0475148016" lon="E0351902175"/>
+			<point lat="N0475147235" lon="E0351901704"/>
+			<point lat="N0475147116" lon="E0351902006"/>
+			<point lat="N0475147293" lon="E0351902449"/>
+			<point lat="N0475147267" lon="E0351903255"/>
+			<point lat="N0475145176" lon="E0351906891"/>
+			<point lat="N0475144917" lon="E0351907903"/>
+			<point lat="N0475145313" lon="E0351907453"/>
+			<point lat="N0475145572" lon="E0351906729"/>
+			<point lat="N0475147376" lon="E0351903619"/>
+			<point lat="N0475147556" lon="E0351903529"/>
+			<point lat="N0475148074" lon="E0351903702"/>
+			<point lat="N0475148812" lon="E0351903341"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475228304" lon="E0351812614"/>
+			<point lat="N0475226562" lon="E0351808827"/>
+			<point lat="N0475224884" lon="E0351810587"/>
+			<point lat="N0475226781" lon="E0351814342"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475228999" lon="E0351817949"/>
+			<point lat="N0475227764" lon="E0351819277"/>
+			<point lat="N0475227534" lon="E0351818745"/>
+			<point lat="N0475228092" lon="E0351818151"/>
+			<point lat="N0475227915" lon="E0351817740"/>
+			<point lat="N0475228095" lon="E0351817546"/>
+			<point lat="N0475228289" lon="E0351817942"/>
+			<point lat="N0475228740" lon="E0351817463"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475231054" lon="E0351814155"/>
+			<point lat="N0475229960" lon="E0351815260"/>
+			<point lat="N0475228412" lon="E0351812150"/>
+			<point lat="N0475228189" lon="E0351812380"/>
+			<point lat="N0475229704" lon="E0351815479"/>
+			<point lat="N0475226641" lon="E0351818705"/>
+			<point lat="N0475226767" lon="E0351818953"/>
+			<point lat="N0475229866" lon="E0351815753"/>
+			<point lat="N0475231180" lon="E0351814417"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475233420" lon="E0351812358"/>
+			<point lat="N0475232689" lon="E0351812488"/>
+			<point lat="N0475231054" lon="E0351814155"/>
+			<point lat="N0475231515" lon="E0351815112"/>
+			<point lat="N0475233632" lon="E0351812833"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475234888" lon="E0351824605"/>
+			<point lat="N0475233945" lon="E0351822427"/>
+			<point lat="N0475233553" lon="E0351822687"/>
+			<point lat="N0475235554" lon="E0351827129"/>
+			<point lat="N0475235687" lon="E0351827723"/>
+			<point lat="N0475235731" lon="E0351828735"/>
+			<point lat="N0475235777" lon="E0351831107"/>
+			<point lat="N0475235504" lon="E0351831086"/>
+			<point lat="N0475235529" lon="E0351828753"/>
+			<point lat="N0475235486" lon="E0351827792"/>
+			<point lat="N0475235367" lon="E0351827190"/>
+			<point lat="N0475233434" lon="E0351823025"/>
+			<point lat="N0475233067" lon="E0351823389"/>
+			<point lat="N0475231904" lon="E0351824570"/>
+			<point lat="N0475231007" lon="E0351822510"/>
+			<point lat="N0475232419" lon="E0351821272"/>
+			<point lat="N0475232480" lon="E0351821031"/>
+			<point lat="N0475229895" lon="E0351815724"/>
+			<point lat="N0475230115" lon="E0351815497"/>
+			<point lat="N0475232606" lon="E0351820862"/>
+			<point lat="N0475233387" lon="E0351822370"/>
+			<point lat="N0475233848" lon="E0351822165"/>
+			<point lat="N0475237649" lon="E0351818586"/>
+			<point lat="N0475238427" lon="E0351820368"/>
+			<point lat="N0475237477" lon="E0351821240"/>
+			<point lat="N0475237750" lon="E0351821920"/>
+			<point lat="N0475236688" lon="E0351822953"/>
+			<point lat="N0475237023" lon="E0351823914"/>
+			<point lat="N0475236195" lon="E0351824688"/>
+			<point lat="N0475235777" lon="E0351823673"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475231601" lon="E0351806400"/>
+			<point lat="N0475232473" lon="E0351808193"/>
+			<point lat="N0475231933" lon="E0351808787"/>
+			<point lat="N0475232019" lon="E0351809385"/>
+			<point lat="N0475231673" lon="E0351810475"/>
+			<point lat="N0475231314" lon="E0351809673"/>
+			<point lat="N0475230539" lon="E0351810393"/>
+			<point lat="N0475230414" lon="E0351810166"/>
+			<point lat="N0475231684" lon="E0351808769"/>
+			<point lat="N0475231742" lon="E0351808315"/>
+			<point lat="N0475231339" lon="E0351807387"/>
+			<point lat="N0475231328" lon="E0351806793"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229269" lon="E0351812916"/>
+			<point lat="N0475228956" lon="E0351812301"/>
+			<point lat="N0475228650" lon="E0351812632"/>
+			<point lat="N0475228437" lon="E0351812196"/>
+			<point lat="N0475228747" lon="E0351811890"/>
+			<point lat="N0475228495" lon="E0351811393"/>
+			<point lat="N0475228768" lon="E0351811062"/>
+			<point lat="N0475229132" lon="E0351811750"/>
+			<point lat="N0475230453" lon="E0351810234"/>
+			<point lat="N0475230543" lon="E0351810386"/>
+			<point lat="N0475229229" lon="E0351811912"/>
+			<point lat="N0475229578" lon="E0351812567"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475156811" lon="E0351849791"/>
+			<point lat="N0475156984" lon="E0351845813"/>
+			<point lat="N0475157351" lon="E0351836316"/>
+			<point lat="N0475157618" lon="E0351832183"/>
+			<point lat="N0475159990" lon="E0351828306"/>
+			<point lat="N0475214084" lon="E0351816052"/>
+			<point lat="N0475215628" lon="E0351816379"/>
+			<point lat="N0475216662" lon="E0351818586"/>
+			<point lat="N0475220963" lon="E0351814119"/>
+			<point lat="N0475221028" lon="E0351813690"/>
+			<point lat="N0475223264" lon="E0351811368"/>
+			<point lat="N0475219542" lon="E0351803589"/>
+			<point lat="N0475218156" lon="E0351804910"/>
+			<point lat="N0475212748" lon="E0351810486"/>
+			<point lat="N0475214134" lon="E0351813399"/>
+			<point lat="N0475213796" lon="E0351815166"/>
+			<point lat="N0475159039" lon="E0351828011"/>
+			<point lat="N0475157135" lon="E0351830563"/>
+			<point lat="N0475156883" lon="E0351832021"/>
+			<point lat="N0475156692" lon="E0351836334"/>
+			<point lat="N0475156109" lon="E0351849370"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227245" lon="E0351826675"/>
+			<point lat="N0475221320" lon="E0351814313"/>
+			<point lat="N0475220928" lon="E0351814090"/>
+			<point lat="N0475221000" lon="E0351813712"/>
+			<point lat="N0475222533" lon="E0351814587"/>
+			<point lat="N0475223991" lon="E0351813111"/>
+			<point lat="N0475227584" lon="E0351820653"/>
+			<point lat="N0475229366" lon="E0351818748"/>
+			<point lat="N0475231994" lon="E0351824757"/>
+			<point lat="N0475230424" lon="E0351826388"/>
+			<point lat="N0475229546" lon="E0351824332"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475151267" lon="E0351857301"/>
+			<point lat="N0475143192" lon="E0351852221"/>
+			<point lat="N0475128411" lon="E0351843113"/>
+			<point lat="N0475128108" lon="E0351842393"/>
+			<point lat="N0475127500" lon="E0351838134"/>
+			<point lat="N0475127493" lon="E0351836093"/>
+			<point lat="N0475128015" lon="E0351835046"/>
+			<point lat="N0475126884" lon="E0351834336"/>
+			<point lat="N0475126978" lon="E0351838160"/>
+			<point lat="N0475127673" lon="E0351842919"/>
+			<point lat="N0475128353" lon="E0351845748"/>
+			<point lat="N0475129174" lon="E0351844445"/>
+			<point lat="N0475142922" lon="E0351852927"/>
+			<point lat="N0475142163" lon="E0351855702"/>
+			<point lat="N0475140374" lon="E0351854662"/>
+			<point lat="N0475139873" lon="E0351856314"/>
+			<point lat="N0475130283" lon="E0351850403"/>
+			<point lat="N0475129768" lon="E0351849604"/>
+			<point lat="N0475128688" lon="E0351845219"/>
+			<point lat="N0475128353" lon="E0351845752"/>
+			<point lat="N0475130726" lon="E0351854266"/>
+			<point lat="N0475146061" lon="E0351903770"/>
+			<point lat="N0475147322" lon="E0351859342"/>
+			<point lat="N0475150248" lon="E0351901063"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475123781" lon="E0351832443"/>
+			<point lat="N0475122082" lon="E0351838574"/>
+			<point lat="N0475121589" lon="E0351839636"/>
+			<point lat="N0475120980" lon="E0351840060"/>
+			<point lat="N0475120880" lon="E0351841410"/>
+			<point lat="N0475120073" lon="E0351841461"/>
+			<point lat="N0475119818" lon="E0351848099"/>
+			<point lat="N0475122125" lon="E0351848240"/>
+			<point lat="N0475122453" lon="E0351838815"/>
+			<point lat="N0475123720" lon="E0351834178"/>
+			<point lat="N0475124476" lon="E0351833713"/>
+			<point lat="N0475125513" lon="E0351833498"/>
+		</path>
+	<!-- </map>
+	<map group="UKDE" id="TWY" layer="210" name="TWY" text="false" visible="true" threshold="50" > -->
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475128097" lon="E0351843365"/>
+			<point lat="N0475127694" lon="E0351841148"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475127694" lon="E0351841148"/>
+			<point lat="N0475127370" lon="E0351839257"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475127201" lon="E0351837033"/>
+			<point lat="N0475127277" lon="E0351835092"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475127277" lon="E0351835092"/>
+			<point lat="N0475127698" lon="E0351833328"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475124785" lon="E0351831528"/>
+			<point lat="N0475124408" lon="E0351832003"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475124408" lon="E0351832003"/>
+			<point lat="N0475124386" lon="E0351832655"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475124386" lon="E0351832655"/>
+			<point lat="N0475124649" lon="E0351832983"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475124649" lon="E0351832983"/>
+			<point lat="N0475125009" lon="E0351833030"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475125009" lon="E0351833030"/>
+			<point lat="N0475125387" lon="E0351832626"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475125387" lon="E0351832626"/>
+			<point lat="N0475125869" lon="E0351832202"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214109" lon="E0351815476"/>
+			<point lat="N0475213573" lon="E0351815886"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475200965" lon="E0351826837"/>
+			<point lat="N0475159220" lon="E0351828450"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475159220" lon="E0351828450"/>
+			<point lat="N0475157826" lon="E0351830326"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475156826" lon="E0351840669"/>
+			<point lat="N0475156638" lon="E0351845824"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475141590" lon="E0351857283"/>
+			<point lat="N0475142339" lon="E0351856732"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475148092" lon="E0351855763"/>
+			<point lat="N0475143160" lon="E0351852642"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475145950" lon="E0351903244"/>
+			<point lat="N0475147030" lon="E0351859518"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475147030" lon="E0351859518"/>
+			<point lat="N0475147278" lon="E0351858615"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475157312" lon="E0351831208"/>
+			<point lat="N0475157229" lon="E0351832112"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227015" lon="E0351825869"/>
+			<point lat="N0475228009" lon="E0351824868"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228930" lon="E0351823911"/>
+			<point lat="N0475228009" lon="E0351824868"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224113" lon="E0351813791"/>
+			<point lat="N0475223023" lon="E0351815037"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475223023" lon="E0351815037"/>
+			<point lat="N0475221414" lon="E0351814144"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221414" lon="E0351814144"/>
+			<point lat="N0475220891" lon="E0351813856"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228959" lon="E0351821441"/>
+			<point lat="N0475228441" lon="E0351820350"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229762" lon="E0351820678"/>
+			<point lat="N0475229218" lon="E0351819566"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229762" lon="E0351820678"/>
+			<point lat="N0475228959" lon="E0351821441"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214613" lon="E0351809320"/>
+			<point lat="N0475215578" lon="E0351811322"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214613" lon="E0351809320"/>
+			<point lat="N0475215862" lon="E0351808006"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218217" lon="E0351805526"/>
+			<point lat="N0475219228" lon="E0351807639"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218217" lon="E0351805526"/>
+			<point lat="N0475219005" lon="E0351804712"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475219005" lon="E0351804712"/>
+			<point lat="N0475219257" lon="E0351804791"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217104" lon="E0351806703"/>
+			<point lat="N0475218217" lon="E0351805526"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217104" lon="E0351806703"/>
+			<point lat="N0475218026" lon="E0351808661"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215862" lon="E0351808006"/>
+			<point lat="N0475217104" lon="E0351806703"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215862" lon="E0351808006"/>
+			<point lat="N0475216856" lon="E0351810026"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214613" lon="E0351809320"/>
+			<point lat="N0475213339" lon="E0351810620"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216788" lon="E0351818100"/>
+			<point lat="N0475217810" lon="E0351817056"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217810" lon="E0351817056"/>
+			<point lat="N0475218912" lon="E0351815886"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217810" lon="E0351817056"/>
+			<point lat="N0475217058" lon="E0351815490"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218912" lon="E0351815886"/>
+			<point lat="N0475220013" lon="E0351814731"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218912" lon="E0351815886"/>
+			<point lat="N0475218148" lon="E0351814338"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220013" lon="E0351814731"/>
+			<point lat="N0475220891" lon="E0351813856"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220013" lon="E0351814731"/>
+			<point lat="N0475219253" lon="E0351813157"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475156638" lon="E0351845824"/>
+			<point lat="N0475156343" lon="E0351851048"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475145658" lon="E0351858690"/>
+			<point lat="N0475145100" lon="E0351900609"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475144276" lon="E0351857844"/>
+			<point lat="N0475143725" lon="E0351859778"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475142951" lon="E0351857056"/>
+			<point lat="N0475142429" lon="E0351858996"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475141590" lon="E0351857283"/>
+			<point lat="N0475141147" lon="E0351858849"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475140085" lon="E0351857200"/>
+			<point lat="N0475141590" lon="E0351857283"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475140085" lon="E0351857200"/>
+			<point lat="N0475139711" lon="E0351858442"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475138847" lon="E0351856429"/>
+			<point lat="N0475140085" lon="E0351857200"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475138847" lon="E0351856429"/>
+			<point lat="N0475138491" lon="E0351857639"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475137591" lon="E0351855627"/>
+			<point lat="N0475138847" lon="E0351856429"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475137591" lon="E0351855627"/>
+			<point lat="N0475137231" lon="E0351856815"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475135060" lon="E0351854036"/>
+			<point lat="N0475136331" lon="E0351854835"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475135060" lon="E0351854036"/>
+			<point lat="N0475134671" lon="E0351855475"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475133786" lon="E0351853258"/>
+			<point lat="N0475135060" lon="E0351854036"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475133786" lon="E0351853258"/>
+			<point lat="N0475133357" lon="E0351854727"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475150651" lon="E0351857304"/>
+			<point lat="N0475148092" lon="E0351855763"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475147689" lon="E0351857186"/>
+			<point lat="N0475148092" lon="E0351855763"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475147689" lon="E0351857186"/>
+			<point lat="N0475148977" lon="E0351857970"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475147278" lon="E0351858615"/>
+			<point lat="N0475147689" lon="E0351857186"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475147278" lon="E0351858615"/>
+			<point lat="N0475148563" lon="E0351859425"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475150234" lon="E0351858759"/>
+			<point lat="N0475148977" lon="E0351857970"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475150234" lon="E0351858759"/>
+			<point lat="N0475149841" lon="E0351900163"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475149841" lon="E0351900163"/>
+			<point lat="N0475148563" lon="E0351859425"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475150234" lon="E0351858759"/>
+			<point lat="N0475150651" lon="E0351857304"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475127370" lon="E0351839257"/>
+			<point lat="N0475127201" lon="E0351837033"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229762" lon="E0351820678"/>
+			<point lat="N0475230270" lon="E0351821819"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228959" lon="E0351821441"/>
+			<point lat="N0475229474" lon="E0351822568"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475238269" lon="E0351917000"/>
+			<point lat="N0475238348" lon="E0351917684"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475238348" lon="E0351917684"/>
+			<point lat="N0475238049" lon="E0351918011"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475238049" lon="E0351918011"/>
+			<point lat="N0475237639" lon="E0351917842"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475237639" lon="E0351917842"/>
+			<point lat="N0475237408" lon="E0351916464"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475147030" lon="E0351859518"/>
+			<point lat="N0475145658" lon="E0351858690"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475145658" lon="E0351858690"/>
+			<point lat="N0475144276" lon="E0351857844"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475144276" lon="E0351857844"/>
+			<point lat="N0475142951" lon="E0351857056"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475142339" lon="E0351856732"/>
+			<point lat="N0475142951" lon="E0351857056"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220013" lon="E0351814731"/>
+			<point lat="N0475220485" lon="E0351813867"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475222368" lon="E0351811861"/>
+			<point lat="N0475221709" lon="E0351810472"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475222368" lon="E0351811861"/>
+			<point lat="N0475221345" lon="E0351812956"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221345" lon="E0351812956"/>
+			<point lat="N0475220485" lon="E0351813867"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221345" lon="E0351812956"/>
+			<point lat="N0475220654" lon="E0351811577"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475145950" lon="E0351903244"/>
+			<point lat="N0475144568" lon="E0351902456"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475143232" lon="E0351901664"/>
+			<point lat="N0475141932" lon="E0351900879"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475140777" lon="E0351900166"/>
+			<point lat="N0475139452" lon="E0351859374"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475136943" lon="E0351857844"/>
+			<point lat="N0475135657" lon="E0351857045"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475143232" lon="E0351901664"/>
+			<point lat="N0475143725" lon="E0351859778"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475141932" lon="E0351900879"/>
+			<point lat="N0475140777" lon="E0351900166"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475141932" lon="E0351900879"/>
+			<point lat="N0475142429" lon="E0351858996"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475144568" lon="E0351902456"/>
+			<point lat="N0475143232" lon="E0351901664"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475144568" lon="E0351902456"/>
+			<point lat="N0475145100" lon="E0351900609"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475140777" lon="E0351900166"/>
+			<point lat="N0475141147" lon="E0351858849"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475136943" lon="E0351857844"/>
+			<point lat="N0475137231" lon="E0351856815"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475138221" lon="E0351858607"/>
+			<point lat="N0475136943" lon="E0351857844"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475138221" lon="E0351858607"/>
+			<point lat="N0475138491" lon="E0351857639"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475139452" lon="E0351859374"/>
+			<point lat="N0475138221" lon="E0351858607"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475139452" lon="E0351859374"/>
+			<point lat="N0475139711" lon="E0351858442"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475133152" lon="E0351855429"/>
+			<point lat="N0475133357" lon="E0351854727"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475134448" lon="E0351856246"/>
+			<point lat="N0475133152" lon="E0351855429"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475134448" lon="E0351856246"/>
+			<point lat="N0475134671" lon="E0351855475"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475136331" lon="E0351854835"/>
+			<point lat="N0475137591" lon="E0351855627"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475135657" lon="E0351857045"/>
+			<point lat="N0475134448" lon="E0351856246"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475136331" lon="E0351854835"/>
+			<point lat="N0475135657" lon="E0351857045"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220852" lon="E0351808762"/>
+			<point lat="N0475220549" lon="E0351809082"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215841" lon="E0351814025"/>
+			<point lat="N0475216406" lon="E0351814083"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216406" lon="E0351814083"/>
+			<point lat="N0475217058" lon="E0351815490"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220895" lon="E0351808182"/>
+			<point lat="N0475219732" lon="E0351805839"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220895" lon="E0351808182"/>
+			<point lat="N0475220852" lon="E0351808762"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216788" lon="E0351818100"/>
+			<point lat="N0475215387" lon="E0351815217"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475213339" lon="E0351810620"/>
+			<point lat="N0475215020" lon="E0351814151"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214109" lon="E0351815476"/>
+			<point lat="N0475214872" lon="E0351814943"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217461" lon="E0351812301"/>
+			<point lat="N0475217025" lon="E0351812751"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216330" lon="E0351812862"/>
+			<point lat="N0475215578" lon="E0351811322"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216237" lon="E0351813611"/>
+			<point lat="N0475215841" lon="E0351814025"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216330" lon="E0351812862"/>
+			<point lat="N0475216237" lon="E0351813611"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218778" lon="E0351810191"/>
+			<point lat="N0475218026" lon="E0351808661"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217558" lon="E0351811505"/>
+			<point lat="N0475216856" lon="E0351810026"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217558" lon="E0351811505"/>
+			<point lat="N0475217461" lon="E0351812301"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218674" lon="E0351810994"/>
+			<point lat="N0475218084" lon="E0351811631"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218778" lon="E0351810191"/>
+			<point lat="N0475218674" lon="E0351810994"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475219959" lon="E0351809125"/>
+			<point lat="N0475219228" lon="E0351807639"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475219840" lon="E0351809813"/>
+			<point lat="N0475219552" lon="E0351810094"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475219959" lon="E0351809125"/>
+			<point lat="N0475219840" lon="E0351809813"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221093" lon="E0351809154"/>
+			<point lat="N0475221709" lon="E0351810472"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220024" lon="E0351810224"/>
+			<point lat="N0475220654" lon="E0351811577"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475219552" lon="E0351810094"/>
+			<point lat="N0475218674" lon="E0351810994"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220024" lon="E0351810224"/>
+			<point lat="N0475219552" lon="E0351810094"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218559" lon="E0351811714"/>
+			<point lat="N0475219253" lon="E0351813157"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218084" lon="E0351811631"/>
+			<point lat="N0475217461" lon="E0351812301"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218559" lon="E0351811714"/>
+			<point lat="N0475218084" lon="E0351811631"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217486" lon="E0351812909"/>
+			<point lat="N0475218148" lon="E0351814338"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217025" lon="E0351812751"/>
+			<point lat="N0475216237" lon="E0351813611"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217486" lon="E0351812909"/>
+			<point lat="N0475217025" lon="E0351812751"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220549" lon="E0351809082"/>
+			<point lat="N0475219840" lon="E0351809813"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221093" lon="E0351809154"/>
+			<point lat="N0475220549" lon="E0351809082"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214872" lon="E0351814943"/>
+			<point lat="N0475215841" lon="E0351814025"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215387" lon="E0351815217"/>
+			<point lat="N0475214872" lon="E0351814943"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215020" lon="E0351814151"/>
+			<point lat="N0475214872" lon="E0351814943"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475212932" lon="E0351816451"/>
+			<point lat="N0475200965" lon="E0351826837"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227015" lon="E0351825869"/>
+			<point lat="N0475226490" lon="E0351824767"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228930" lon="E0351823911"/>
+			<point lat="N0475228398" lon="E0351822788"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224675" lon="E0351814972"/>
+			<point lat="N0475224113" lon="E0351813791"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224675" lon="E0351814972"/>
+			<point lat="N0475223667" lon="E0351816070"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475222799" lon="E0351817042"/>
+			<point lat="N0475221414" lon="E0351814144"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475222799" lon="E0351817042"/>
+			<point lat="N0475223667" lon="E0351816070"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475223314" lon="E0351818118"/>
+			<point lat="N0475222799" lon="E0351817042"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475223314" lon="E0351818118"/>
+			<point lat="N0475224239" lon="E0351817143"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225219" lon="E0351816106"/>
+			<point lat="N0475224675" lon="E0351814972"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225219" lon="E0351816106"/>
+			<point lat="N0475224239" lon="E0351817143"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225737" lon="E0351817200"/>
+			<point lat="N0475225219" lon="E0351816106"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225737" lon="E0351817200"/>
+			<point lat="N0475224754" lon="E0351818270"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475223836" lon="E0351819216"/>
+			<point lat="N0475223314" lon="E0351818118"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475223836" lon="E0351819216"/>
+			<point lat="N0475224754" lon="E0351818270"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226266" lon="E0351818313"/>
+			<point lat="N0475225737" lon="E0351817200"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226266" lon="E0351818313"/>
+			<point lat="N0475225276" lon="E0351819378"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224376" lon="E0351820343"/>
+			<point lat="N0475223836" lon="E0351819216"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224376" lon="E0351820343"/>
+			<point lat="N0475225276" lon="E0351819378"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224913" lon="E0351821463"/>
+			<point lat="N0475224376" lon="E0351820343"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224913" lon="E0351821463"/>
+			<point lat="N0475225784" lon="E0351820530"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226810" lon="E0351819450"/>
+			<point lat="N0475226266" lon="E0351818313"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226810" lon="E0351819450"/>
+			<point lat="N0475225784" lon="E0351820530"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227346" lon="E0351820573"/>
+			<point lat="N0475226810" lon="E0351819450"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227346" lon="E0351820573"/>
+			<point lat="N0475226324" lon="E0351821614"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225438" lon="E0351822568"/>
+			<point lat="N0475224913" lon="E0351821463"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225438" lon="E0351822568"/>
+			<point lat="N0475226324" lon="E0351821614"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225967" lon="E0351823677"/>
+			<point lat="N0475225438" lon="E0351822568"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225967" lon="E0351823677"/>
+			<point lat="N0475226878" lon="E0351822733"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227872" lon="E0351821689"/>
+			<point lat="N0475227346" lon="E0351820573"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227872" lon="E0351821689"/>
+			<point lat="N0475226878" lon="E0351822733"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228398" lon="E0351822788"/>
+			<point lat="N0475228153" lon="E0351822273"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228398" lon="E0351822788"/>
+			<point lat="N0475227415" lon="E0351823814"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226490" lon="E0351824767"/>
+			<point lat="N0475225967" lon="E0351823677"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226490" lon="E0351824767"/>
+			<point lat="N0475227415" lon="E0351823814"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228153" lon="E0351822273"/>
+			<point lat="N0475227872" lon="E0351821689"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228959" lon="E0351821441"/>
+			<point lat="N0475228153" lon="E0351822273"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475157826" lon="E0351830326"/>
+			<point lat="N0475157312" lon="E0351831208"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475157229" lon="E0351832112"/>
+			<point lat="N0475157002" lon="E0351836309"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475157002" lon="E0351836309"/>
+			<point lat="N0475156826" lon="E0351840669"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475219257" lon="E0351804791"/>
+			<point lat="N0475219732" lon="E0351805839"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475213573" lon="E0351815886"/>
+			<point lat="N0475212932" lon="E0351816451"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475143160" lon="E0351852642"/>
+			<point lat="N0475128097" lon="E0351843365"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475212331" lon="E0351743889"/>
+			<point lat="N0475213443" lon="E0351744106"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475213443" lon="E0351744106"/>
+			<point lat="N0475214127" lon="E0351744390"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214127" lon="E0351744390"/>
+			<point lat="N0475214617" lon="E0351744746"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475214617" lon="E0351744746"/>
+			<point lat="N0475215106" lon="E0351745376"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215106" lon="E0351745376"/>
+			<point lat="N0475215571" lon="E0351746136"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475215571" lon="E0351746136"/>
+			<point lat="N0475216176" lon="E0351747385"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475216176" lon="E0351747385"/>
+			<point lat="N0475217727" lon="E0351750686"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475217727" lon="E0351750686"/>
+			<point lat="N0475218310" lon="E0351751590"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475218310" lon="E0351751590"/>
+			<point lat="N0475220744" lon="E0351753206"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220744" lon="E0351753206"/>
+			<point lat="N0475220942" lon="E0351753523"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475220942" lon="E0351753523"/>
+			<point lat="N0475221917" lon="E0351755582"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221917" lon="E0351755582"/>
+			<point lat="N0475221907" lon="E0351756011"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475221907" lon="E0351756011"/>
+			<point lat="N0475221525" lon="E0351758138"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229359" lon="E0351800939"/>
+			<point lat="N0475229881" lon="E0351800370"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229881" lon="E0351800370"/>
+			<point lat="N0475230097" lon="E0351759978"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475230097" lon="E0351759978"/>
+			<point lat="N0475230201" lon="E0351759427"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475230201" lon="E0351759427"/>
+			<point lat="N0475230208" lon="E0351758761"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475230208" lon="E0351758761"/>
+			<point lat="N0475230032" lon="E0351758264"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475230032" lon="E0351758264"/>
+			<point lat="N0475229557" lon="E0351757361"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229557" lon="E0351757361"/>
+			<point lat="N0475229611" lon="E0351758178"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229611" lon="E0351758178"/>
+			<point lat="N0475229618" lon="E0351758844"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229618" lon="E0351758844"/>
+			<point lat="N0475229420" lon="E0351759452"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229420" lon="E0351759452"/>
+			<point lat="N0475229017" lon="E0351759989"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229017" lon="E0351759989"/>
+			<point lat="N0475227803" lon="E0351801324"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229359" lon="E0351800939"/>
+			<point lat="N0475228236" lon="E0351802156"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475228236" lon="E0351802156"/>
+			<point lat="N0475227789" lon="E0351802642"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227789" lon="E0351802642"/>
+			<point lat="N0475227710" lon="E0351803225"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227710" lon="E0351803225"/>
+			<point lat="N0475227699" lon="E0351803859"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227699" lon="E0351803859"/>
+			<point lat="N0475227685" lon="E0351804500"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227685" lon="E0351804500"/>
+			<point lat="N0475227397" lon="E0351805112"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227397" lon="E0351805112"/>
+			<point lat="N0475226875" lon="E0351805637"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227803" lon="E0351801324"/>
+			<point lat="N0475227346" lon="E0351801706"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475227346" lon="E0351801706"/>
+			<point lat="N0475226849" lon="E0351801551"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226849" lon="E0351801551"/>
+			<point lat="N0475226425" lon="E0351801220"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226425" lon="E0351801220"/>
+			<point lat="N0475225964" lon="E0351800968"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225964" lon="E0351800968"/>
+			<point lat="N0475225604" lon="E0351801173"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225604" lon="E0351801173"/>
+			<point lat="N0475225075" lon="E0351801760"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475225075" lon="E0351801760"/>
+			<point lat="N0475224715" lon="E0351802267"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224715" lon="E0351802267"/>
+			<point lat="N0475224679" lon="E0351802732"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475224679" lon="E0351802732"/>
+			<point lat="N0475226108" lon="E0351805648"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226108" lon="E0351805648"/>
+			<point lat="N0475226410" lon="E0351805781"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475226410" lon="E0351805781"/>
+			<point lat="N0475226875" lon="E0351805637"/>
+		</path>
+		<path close="false" stroke_width="1" stroke_color="ad_twy">
+			<point lat="N0475229557" lon="E0351757361"/>
+			<point lat="N0475226144" lon="E0351750222"/>
+		</path>
+	<!-- </map>
+	<map group="UKDE" id="TWY_APP" layer="200" name="TWY_APP" text="false" visible="true" threshold="50" > -->
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475212314" lon="E0351744081"/>
+			<point lat="N0475213426" lon="E0351744297"/>
+			<point lat="N0475213460" lon="E0351743914"/>
+			<point lat="N0475212347" lon="E0351743698"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475213408" lon="E0351744291"/>
+			<point lat="N0475214092" lon="E0351744576"/>
+			<point lat="N0475214162" lon="E0351744204"/>
+			<point lat="N0475213478" lon="E0351743920"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475214070" lon="E0351744563"/>
+			<point lat="N0475214560" lon="E0351744920"/>
+			<point lat="N0475214674" lon="E0351744573"/>
+			<point lat="N0475214184" lon="E0351744216"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475214532" lon="E0351744892"/>
+			<point lat="N0475215022" lon="E0351745522"/>
+			<point lat="N0475215191" lon="E0351745230"/>
+			<point lat="N0475214701" lon="E0351744600"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475215011" lon="E0351745506"/>
+			<point lat="N0475215475" lon="E0351746266"/>
+			<point lat="N0475215666" lon="E0351746006"/>
+			<point lat="N0475215202" lon="E0351745246"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475215466" lon="E0351746249"/>
+			<point lat="N0475216071" lon="E0351747498"/>
+			<point lat="N0475216280" lon="E0351747272"/>
+			<point lat="N0475215676" lon="E0351746023"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475216069" lon="E0351747496"/>
+			<point lat="N0475217621" lon="E0351750797"/>
+			<point lat="N0475217833" lon="E0351750576"/>
+			<point lat="N0475216282" lon="E0351747274"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475217634" lon="E0351750820"/>
+			<point lat="N0475218217" lon="E0351751724"/>
+			<point lat="N0475218404" lon="E0351751456"/>
+			<point lat="N0475217820" lon="E0351750552"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475218264" lon="E0351751744"/>
+			<point lat="N0475220698" lon="E0351753361"/>
+			<point lat="N0475220790" lon="E0351753052"/>
+			<point lat="N0475218356" lon="E0351751436"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475220661" lon="E0351753321"/>
+			<point lat="N0475220859" lon="E0351753638"/>
+			<point lat="N0475221025" lon="E0351753408"/>
+			<point lat="N0475220827" lon="E0351753091"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475220849" lon="E0351753621"/>
+			<point lat="N0475221825" lon="E0351755680"/>
+			<point lat="N0475222010" lon="E0351755485"/>
+			<point lat="N0475221034" lon="E0351753426"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475221804" lon="E0351755576"/>
+			<point lat="N0475221793" lon="E0351756004"/>
+			<point lat="N0475222020" lon="E0351756017"/>
+			<point lat="N0475222031" lon="E0351755589"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475221797" lon="E0351755967"/>
+			<point lat="N0475221416" lon="E0351758095"/>
+			<point lat="N0475221635" lon="E0351758182"/>
+			<point lat="N0475222016" lon="E0351756054"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229426" lon="E0351801075"/>
+			<point lat="N0475229948" lon="E0351800507"/>
+			<point lat="N0475229814" lon="E0351800234"/>
+			<point lat="N0475229292" lon="E0351800803"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229968" lon="E0351800477"/>
+			<point lat="N0475230184" lon="E0351800085"/>
+			<point lat="N0475230009" lon="E0351759871"/>
+			<point lat="N0475229793" lon="E0351800263"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475230206" lon="E0351800024"/>
+			<point lat="N0475230310" lon="E0351759473"/>
+			<point lat="N0475230092" lon="E0351759381"/>
+			<point lat="N0475229988" lon="E0351759932"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475230314" lon="E0351759430"/>
+			<point lat="N0475230322" lon="E0351758764"/>
+			<point lat="N0475230095" lon="E0351758758"/>
+			<point lat="N0475230088" lon="E0351759424"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475230308" lon="E0351758682"/>
+			<point lat="N0475230132" lon="E0351758185"/>
+			<point lat="N0475229932" lon="E0351758343"/>
+			<point lat="N0475230108" lon="E0351758840"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475230121" lon="E0351758160"/>
+			<point lat="N0475229646" lon="E0351757256"/>
+			<point lat="N0475229468" lon="E0351757465"/>
+			<point lat="N0475229943" lon="E0351758369"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229444" lon="E0351757377"/>
+			<point lat="N0475229498" lon="E0351758194"/>
+			<point lat="N0475229723" lon="E0351758161"/>
+			<point lat="N0475229669" lon="E0351757344"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229497" lon="E0351758181"/>
+			<point lat="N0475229505" lon="E0351758847"/>
+			<point lat="N0475229731" lon="E0351758841"/>
+			<point lat="N0475229724" lon="E0351758175"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229516" lon="E0351758770"/>
+			<point lat="N0475229318" lon="E0351759379"/>
+			<point lat="N0475229522" lon="E0351759526"/>
+			<point lat="N0475229720" lon="E0351758918"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229344" lon="E0351759326"/>
+			<point lat="N0475228941" lon="E0351759863"/>
+			<point lat="N0475229092" lon="E0351800115"/>
+			<point lat="N0475229495" lon="E0351759578"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475228949" lon="E0351759853"/>
+			<point lat="N0475227736" lon="E0351801188"/>
+			<point lat="N0475227871" lon="E0351801460"/>
+			<point lat="N0475229084" lon="E0351800125"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229292" lon="E0351800802"/>
+			<point lat="N0475228169" lon="E0351802019"/>
+			<point lat="N0475228302" lon="E0351802293"/>
+			<point lat="N0475229425" lon="E0351801076"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475228169" lon="E0351802020"/>
+			<point lat="N0475227722" lon="E0351802506"/>
+			<point lat="N0475227856" lon="E0351802778"/>
+			<point lat="N0475228302" lon="E0351802292"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227678" lon="E0351802608"/>
+			<point lat="N0475227599" lon="E0351803192"/>
+			<point lat="N0475227821" lon="E0351803259"/>
+			<point lat="N0475227900" lon="E0351802675"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227597" lon="E0351803221"/>
+			<point lat="N0475227586" lon="E0351803854"/>
+			<point lat="N0475227812" lon="E0351803863"/>
+			<point lat="N0475227823" lon="E0351803229"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227586" lon="E0351803853"/>
+			<point lat="N0475227571" lon="E0351804494"/>
+			<point lat="N0475227798" lon="E0351804505"/>
+			<point lat="N0475227812" lon="E0351803864"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227552" lon="E0351804361"/>
+			<point lat="N0475227264" lon="E0351804973"/>
+			<point lat="N0475227529" lon="E0351805250"/>
+			<point lat="N0475227817" lon="E0351804638"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227288" lon="E0351804872"/>
+			<point lat="N0475226766" lon="E0351805397"/>
+			<point lat="N0475226983" lon="E0351805877"/>
+			<point lat="N0475227505" lon="E0351805351"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227748" lon="E0351801177"/>
+			<point lat="N0475227291" lon="E0351801559"/>
+			<point lat="N0475227402" lon="E0351801853"/>
+			<point lat="N0475227859" lon="E0351801472"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475227369" lon="E0351801541"/>
+			<point lat="N0475226873" lon="E0351801386"/>
+			<point lat="N0475226826" lon="E0351801716"/>
+			<point lat="N0475227323" lon="E0351801871"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475226902" lon="E0351801401"/>
+			<point lat="N0475226477" lon="E0351801070"/>
+			<point lat="N0475226372" lon="E0351801370"/>
+			<point lat="N0475226797" lon="E0351801701"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475226464" lon="E0351801061"/>
+			<point lat="N0475226003" lon="E0351800809"/>
+			<point lat="N0475225925" lon="E0351801126"/>
+			<point lat="N0475226386" lon="E0351801378"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475225923" lon="E0351800810"/>
+			<point lat="N0475225563" lon="E0351801015"/>
+			<point lat="N0475225644" lon="E0351801331"/>
+			<point lat="N0475226004" lon="E0351801126"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475225536" lon="E0351801038"/>
+			<point lat="N0475225007" lon="E0351801624"/>
+			<point lat="N0475225142" lon="E0351801895"/>
+			<point lat="N0475225672" lon="E0351801309"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475224997" lon="E0351801637"/>
+			<point lat="N0475224637" lon="E0351802145"/>
+			<point lat="N0475224793" lon="E0351802390"/>
+			<point lat="N0475225153" lon="E0351801883"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475224602" lon="E0351802248"/>
+			<point lat="N0475224566" lon="E0351802713"/>
+			<point lat="N0475224791" lon="E0351802751"/>
+			<point lat="N0475224827" lon="E0351802287"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475224587" lon="E0351802832"/>
+			<point lat="N0475226016" lon="E0351805748"/>
+			<point lat="N0475226199" lon="E0351805548"/>
+			<point lat="N0475224770" lon="E0351802632"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475226076" lon="E0351805810"/>
+			<point lat="N0475226378" lon="E0351805943"/>
+			<point lat="N0475226442" lon="E0351805619"/>
+			<point lat="N0475226140" lon="E0351805486"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475226450" lon="E0351806065"/>
+			<point lat="N0475226914" lon="E0351805921"/>
+			<point lat="N0475226835" lon="E0351805354"/>
+			<point lat="N0475226371" lon="E0351805498"/>
+		</path>
+		<path close="true" fill_color="ad_apron">
+			<point lat="N0475229649" lon="E0351757263"/>
+			<point lat="N0475226236" lon="E0351750124"/>
+			<point lat="N0475226052" lon="E0351750320"/>
+			<point lat="N0475229464" lon="E0351757459"/>
+		</path>
+	<!-- </map>
+	<map group="UKDE" id="PRK" layer="205" name="PRK" text="false" visible="true" threshold="50" > -->
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475219850" lon="E0351806628"/>
+			<point lat="N0475219441" lon="E0351806521"/>
+			<point lat="N0475219203" lon="E0351806014"/>
+			<point lat="N0475219275" lon="E0351805404"/>
+			<point lat="N0475219615" lon="E0351805049"/>
+			<point lat="N0475220024" lon="E0351805157"/>
+			<point lat="N0475220262" lon="E0351805664"/>
+			<point lat="N0475220190" lon="E0351806273"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475219367" lon="E0351808572"/>
+			<point lat="N0475218884" lon="E0351808445"/>
+			<point lat="N0475218602" lon="E0351807846"/>
+			<point lat="N0475218688" lon="E0351807125"/>
+			<point lat="N0475219090" lon="E0351806705"/>
+			<point lat="N0475219573" lon="E0351806833"/>
+			<point lat="N0475219854" lon="E0351807432"/>
+			<point lat="N0475219769" lon="E0351808152"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475218203" lon="E0351809807"/>
+			<point lat="N0475217608" lon="E0351809659"/>
+			<point lat="N0475217257" lon="E0351808926"/>
+			<point lat="N0475217357" lon="E0351808038"/>
+			<point lat="N0475217849" lon="E0351807515"/>
+			<point lat="N0475218444" lon="E0351807664"/>
+			<point lat="N0475218795" lon="E0351808397"/>
+			<point lat="N0475218695" lon="E0351809285"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475217033" lon="E0351811172"/>
+			<point lat="N0475216438" lon="E0351811023"/>
+			<point lat="N0475216087" lon="E0351810290"/>
+			<point lat="N0475216187" lon="E0351809402"/>
+			<point lat="N0475216679" lon="E0351808879"/>
+			<point lat="N0475217274" lon="E0351809028"/>
+			<point lat="N0475217625" lon="E0351809761"/>
+			<point lat="N0475217525" lon="E0351810649"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475215755" lon="E0351812468"/>
+			<point lat="N0475215160" lon="E0351812319"/>
+			<point lat="N0475214809" lon="E0351811586"/>
+			<point lat="N0475214909" lon="E0351810698"/>
+			<point lat="N0475215401" lon="E0351810175"/>
+			<point lat="N0475215996" lon="E0351810324"/>
+			<point lat="N0475216347" lon="E0351811057"/>
+			<point lat="N0475216247" lon="E0351811945"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475221559" lon="E0351809467"/>
+			<point lat="N0475222080" lon="E0351809603"/>
+			<point lat="N0475222383" lon="E0351810249"/>
+			<point lat="N0475222291" lon="E0351811025"/>
+			<point lat="N0475221858" lon="E0351811477"/>
+			<point lat="N0475221338" lon="E0351811340"/>
+			<point lat="N0475221034" lon="E0351810695"/>
+			<point lat="N0475221126" lon="E0351809919"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475220515" lon="E0351810644"/>
+			<point lat="N0475220998" lon="E0351810771"/>
+			<point lat="N0475221280" lon="E0351811370"/>
+			<point lat="N0475221195" lon="E0351812091"/>
+			<point lat="N0475220793" lon="E0351812510"/>
+			<point lat="N0475220309" lon="E0351812383"/>
+			<point lat="N0475220028" lon="E0351811784"/>
+			<point lat="N0475220113" lon="E0351811064"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475219087" lon="E0351812083"/>
+			<point lat="N0475219646" lon="E0351812222"/>
+			<point lat="N0475219974" lon="E0351812910"/>
+			<point lat="N0475219881" lon="E0351813742"/>
+			<point lat="N0475219420" lon="E0351814232"/>
+			<point lat="N0475218861" lon="E0351814093"/>
+			<point lat="N0475218533" lon="E0351813405"/>
+			<point lat="N0475218626" lon="E0351812573"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475217988" lon="E0351813261"/>
+			<point lat="N0475218546" lon="E0351813408"/>
+			<point lat="N0475218871" lon="E0351814100"/>
+			<point lat="N0475218772" lon="E0351814931"/>
+			<point lat="N0475218308" lon="E0351815415"/>
+			<point lat="N0475217751" lon="E0351815269"/>
+			<point lat="N0475217426" lon="E0351814577"/>
+			<point lat="N0475217524" lon="E0351813746"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475216897" lon="E0351814413"/>
+			<point lat="N0475217455" lon="E0351814560"/>
+			<point lat="N0475217780" lon="E0351815252"/>
+			<point lat="N0475217682" lon="E0351816083"/>
+			<point lat="N0475217218" lon="E0351816567"/>
+			<point lat="N0475216660" lon="E0351816421"/>
+			<point lat="N0475216335" lon="E0351815729"/>
+			<point lat="N0475216433" lon="E0351814898"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475223227" lon="E0351816227"/>
+			<point lat="N0475223281" lon="E0351815717"/>
+			<point lat="N0475223561" lon="E0351815414"/>
+			<point lat="N0475223904" lon="E0351815494"/>
+			<point lat="N0475224107" lon="E0351815912"/>
+			<point lat="N0475224053" lon="E0351816423"/>
+			<point lat="N0475223773" lon="E0351816726"/>
+			<point lat="N0475223431" lon="E0351816645"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475223799" lon="E0351817300"/>
+			<point lat="N0475223853" lon="E0351816790"/>
+			<point lat="N0475224134" lon="E0351816486"/>
+			<point lat="N0475224476" lon="E0351816567"/>
+			<point lat="N0475224680" lon="E0351816985"/>
+			<point lat="N0475224626" lon="E0351817495"/>
+			<point lat="N0475224345" lon="E0351817799"/>
+			<point lat="N0475224003" lon="E0351817718"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475224314" lon="E0351818427"/>
+			<point lat="N0475224368" lon="E0351817917"/>
+			<point lat="N0475224649" lon="E0351817613"/>
+			<point lat="N0475224991" lon="E0351817694"/>
+			<point lat="N0475225195" lon="E0351818112"/>
+			<point lat="N0475225140" lon="E0351818622"/>
+			<point lat="N0475224860" lon="E0351818926"/>
+			<point lat="N0475224518" lon="E0351818845"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475224836" lon="E0351819536"/>
+			<point lat="N0475224890" lon="E0351819026"/>
+			<point lat="N0475225171" lon="E0351818722"/>
+			<point lat="N0475225513" lon="E0351818803"/>
+			<point lat="N0475225717" lon="E0351819221"/>
+			<point lat="N0475225662" lon="E0351819731"/>
+			<point lat="N0475225382" lon="E0351820035"/>
+			<point lat="N0475225040" lon="E0351819954"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475225344" lon="E0351820688"/>
+			<point lat="N0475225398" lon="E0351820178"/>
+			<point lat="N0475225678" lon="E0351819874"/>
+			<point lat="N0475226020" lon="E0351819955"/>
+			<point lat="N0475226224" lon="E0351820373"/>
+			<point lat="N0475226170" lon="E0351820883"/>
+			<point lat="N0475225890" lon="E0351821187"/>
+			<point lat="N0475225547" lon="E0351821106"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475225884" lon="E0351821771"/>
+			<point lat="N0475225938" lon="E0351821261"/>
+			<point lat="N0475226218" lon="E0351820957"/>
+			<point lat="N0475226560" lon="E0351821038"/>
+			<point lat="N0475226764" lon="E0351821456"/>
+			<point lat="N0475226710" lon="E0351821967"/>
+			<point lat="N0475226430" lon="E0351822270"/>
+			<point lat="N0475226087" lon="E0351822189"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475226438" lon="E0351822891"/>
+			<point lat="N0475226492" lon="E0351822381"/>
+			<point lat="N0475226773" lon="E0351822077"/>
+			<point lat="N0475227115" lon="E0351822158"/>
+			<point lat="N0475227319" lon="E0351822576"/>
+			<point lat="N0475227264" lon="E0351823086"/>
+			<point lat="N0475226984" lon="E0351823390"/>
+			<point lat="N0475226642" lon="E0351823309"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475226974" lon="E0351823971"/>
+			<point lat="N0475227029" lon="E0351823461"/>
+			<point lat="N0475227309" lon="E0351823157"/>
+			<point lat="N0475227651" lon="E0351823238"/>
+			<point lat="N0475227855" lon="E0351823656"/>
+			<point lat="N0475227801" lon="E0351824166"/>
+			<point lat="N0475227520" lon="E0351824470"/>
+			<point lat="N0475227178" lon="E0351824389"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475227568" lon="E0351825026"/>
+			<point lat="N0475227623" lon="E0351824516"/>
+			<point lat="N0475227903" lon="E0351824212"/>
+			<point lat="N0475228245" lon="E0351824293"/>
+			<point lat="N0475228449" lon="E0351824711"/>
+			<point lat="N0475228395" lon="E0351825221"/>
+			<point lat="N0475228114" lon="E0351825525"/>
+			<point lat="N0475227772" lon="E0351825444"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475228338" lon="E0351819693"/>
+			<point lat="N0475228680" lon="E0351819777"/>
+			<point lat="N0475228882" lon="E0351820198"/>
+			<point lat="N0475228825" lon="E0351820707"/>
+			<point lat="N0475228543" lon="E0351821008"/>
+			<point lat="N0475228201" lon="E0351820923"/>
+			<point lat="N0475228000" lon="E0351820503"/>
+			<point lat="N0475228056" lon="E0351819993"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475229127" lon="E0351818904"/>
+			<point lat="N0475229467" lon="E0351819001"/>
+			<point lat="N0475229662" lon="E0351819429"/>
+			<point lat="N0475229597" lon="E0351819936"/>
+			<point lat="N0475229310" lon="E0351820227"/>
+			<point lat="N0475228970" lon="E0351820130"/>
+			<point lat="N0475228775" lon="E0351819702"/>
+			<point lat="N0475228840" lon="E0351819195"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475230348" lon="E0351822484"/>
+			<point lat="N0475230009" lon="E0351822372"/>
+			<point lat="N0475229823" lon="E0351821935"/>
+			<point lat="N0475229899" lon="E0351821431"/>
+			<point lat="N0475230191" lon="E0351821154"/>
+			<point lat="N0475230530" lon="E0351821267"/>
+			<point lat="N0475230716" lon="E0351821703"/>
+			<point lat="N0475230640" lon="E0351822207"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475229569" lon="E0351823228"/>
+			<point lat="N0475229228" lon="E0351823135"/>
+			<point lat="N0475229031" lon="E0351822710"/>
+			<point lat="N0475229093" lon="E0351822202"/>
+			<point lat="N0475229378" lon="E0351821908"/>
+			<point lat="N0475229719" lon="E0351822001"/>
+			<point lat="N0475229917" lon="E0351822425"/>
+			<point lat="N0475229854" lon="E0351822934"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475133751" lon="E0351854150"/>
+			<point lat="N0475133910" lon="E0351854734"/>
+			<point lat="N0475133744" lon="E0351855314"/>
+			<point lat="N0475133352" lon="E0351855550"/>
+			<point lat="N0475132963" lon="E0351855304"/>
+			<point lat="N0475132805" lon="E0351854720"/>
+			<point lat="N0475132970" lon="E0351854139"/>
+			<point lat="N0475133362" lon="E0351853903"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475135058" lon="E0351854909"/>
+			<point lat="N0475135214" lon="E0351855483"/>
+			<point lat="N0475135051" lon="E0351856052"/>
+			<point lat="N0475134666" lon="E0351856284"/>
+			<point lat="N0475134284" lon="E0351856042"/>
+			<point lat="N0475134129" lon="E0351855468"/>
+			<point lat="N0475134291" lon="E0351854899"/>
+			<point lat="N0475134676" lon="E0351854667"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475137618" lon="E0351856248"/>
+			<point lat="N0475137773" lon="E0351856822"/>
+			<point lat="N0475137611" lon="E0351857391"/>
+			<point lat="N0475137226" lon="E0351857623"/>
+			<point lat="N0475136844" lon="E0351857381"/>
+			<point lat="N0475136688" lon="E0351856808"/>
+			<point lat="N0475136850" lon="E0351856238"/>
+			<point lat="N0475137235" lon="E0351856006"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475138885" lon="E0351857062"/>
+			<point lat="N0475139043" lon="E0351857646"/>
+			<point lat="N0475138878" lon="E0351858226"/>
+			<point lat="N0475138486" lon="E0351858463"/>
+			<point lat="N0475138097" lon="E0351858216"/>
+			<point lat="N0475137938" lon="E0351857632"/>
+			<point lat="N0475138103" lon="E0351857052"/>
+			<point lat="N0475138496" lon="E0351856816"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475140098" lon="E0351857875"/>
+			<point lat="N0475140254" lon="E0351858449"/>
+			<point lat="N0475140091" lon="E0351859019"/>
+			<point lat="N0475139706" lon="E0351859250"/>
+			<point lat="N0475139324" lon="E0351859009"/>
+			<point lat="N0475139169" lon="E0351858435"/>
+			<point lat="N0475139331" lon="E0351857865"/>
+			<point lat="N0475139716" lon="E0351857633"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475141534" lon="E0351858282"/>
+			<point lat="N0475141690" lon="E0351858856"/>
+			<point lat="N0475141528" lon="E0351859425"/>
+			<point lat="N0475141143" lon="E0351859657"/>
+			<point lat="N0475140761" lon="E0351859415"/>
+			<point lat="N0475140605" lon="E0351858842"/>
+			<point lat="N0475140767" lon="E0351858272"/>
+			<point lat="N0475141152" lon="E0351858040"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475142929" lon="E0351858265"/>
+			<point lat="N0475143129" lon="E0351859005"/>
+			<point lat="N0475142920" lon="E0351859741"/>
+			<point lat="N0475142423" lon="E0351900040"/>
+			<point lat="N0475141930" lon="E0351859728"/>
+			<point lat="N0475141729" lon="E0351858987"/>
+			<point lat="N0475141938" lon="E0351858252"/>
+			<point lat="N0475142435" lon="E0351857952"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475144225" lon="E0351859046"/>
+			<point lat="N0475144425" lon="E0351859787"/>
+			<point lat="N0475144216" lon="E0351900522"/>
+			<point lat="N0475143719" lon="E0351900821"/>
+			<point lat="N0475143226" lon="E0351900509"/>
+			<point lat="N0475143025" lon="E0351859768"/>
+			<point lat="N0475143234" lon="E0351859033"/>
+			<point lat="N0475143731" lon="E0351858734"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475145600" lon="E0351859877"/>
+			<point lat="N0475145801" lon="E0351900618"/>
+			<point lat="N0475145591" lon="E0351901354"/>
+			<point lat="N0475145094" lon="E0351901653"/>
+			<point lat="N0475144601" lon="E0351901341"/>
+			<point lat="N0475144400" lon="E0351900600"/>
+			<point lat="N0475144609" lon="E0351859864"/>
+			<point lat="N0475145106" lon="E0351859565"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475148216" lon="E0351858902"/>
+			<point lat="N0475148566" lon="E0351858689"/>
+			<point lat="N0475148914" lon="E0351858907"/>
+			<point lat="N0475149057" lon="E0351859428"/>
+			<point lat="N0475148911" lon="E0351859947"/>
+			<point lat="N0475148561" lon="E0351900160"/>
+			<point lat="N0475148213" lon="E0351859942"/>
+			<point lat="N0475148070" lon="E0351859421"/>
+		</path>
+		<path close="true" stroke_width="1" stroke_color="ad_stand">
+			<point lat="N0475148631" lon="E0351857447"/>
+			<point lat="N0475148980" lon="E0351857235"/>
+			<point lat="N0475149328" lon="E0351857454"/>
+			<point lat="N0475149471" lon="E0351857975"/>
+			<point lat="N0475149324" lon="E0351858493"/>
+			<point lat="N0475148975" lon="E0351858706"/>
+			<point lat="N0475148627" lon="E0351858487"/>
+			<point lat="N0475148484" lon="E0351857966"/>
+		</path>
+	<!-- </map>
+	<map group="UKDE" id="PRK_ID" layer="210" name="PRK_ID" text="true" visible="true" threshold="50" > -->
+		<label text="1" color="ad_notes" lat="N0475219732" lon="E0351805839" />
+		<label text="2" color="ad_notes" lat="N0475219228" lon="E0351807639" />
+		<label text="3" color="ad_notes" lat="N0475218026" lon="E0351808661" />
+		<label text="4" color="ad_notes" lat="N0475216856" lon="E0351810026" />
+		<label text="5" color="ad_notes" lat="N0475215578" lon="E0351811322" />
+		<label text="6" color="ad_notes" lat="N0475221709" lon="E0351810472" />
+		<label text="7" color="ad_notes" lat="N0475220654" lon="E0351811577" />
+		<label text="8" color="ad_notes" lat="N0475219253" lon="E0351813157" />
+		<label text="9" color="ad_notes" lat="N0475218148" lon="E0351814338" />
+		<label text="10" color="ad_notes" lat="N0475217058" lon="E0351815490" />
+		<label text="11" color="ad_notes" lat="N0475223667" lon="E0351816070" />
+		<label text="12" color="ad_notes" lat="N0475224239" lon="E0351817143" />
+		<label text="13" color="ad_notes" lat="N0475224754" lon="E0351818270" />
+		<label text="14" color="ad_notes" lat="N0475225276" lon="E0351819378" />
+		<label text="15" color="ad_notes" lat="N0475225784" lon="E0351820530" />
+		<label text="16" color="ad_notes" lat="N0475226324" lon="E0351821614" />
+		<label text="17" color="ad_notes" lat="N0475226878" lon="E0351822733" />
+		<label text="18" color="ad_notes" lat="N0475227415" lon="E0351823814" />
+		<label text="19" color="ad_notes" lat="N0475228009" lon="E0351824868" />
+		<label text="20" color="ad_notes" lat="N0475228441" lon="E0351820350" />
+		<label text="21" color="ad_notes" lat="N0475229218" lon="E0351819566" />
+		<label text="22" color="ad_notes" lat="N0475230270" lon="E0351821819" />
+		<label text="23" color="ad_notes" lat="N0475229474" lon="E0351822568" />
+		<label text="70" color="ad_notes" lat="N0475133357" lon="E0351854727" />
+		<label text="71" color="ad_notes" lat="N0475134671" lon="E0351855475" />
+		<label text="72" color="ad_notes" lat="N0475137231" lon="E0351856815" />
+		<label text="73" color="ad_notes" lat="N0475138491" lon="E0351857639" />
+		<label text="74" color="ad_notes" lat="N0475139711" lon="E0351858442" />
+		<label text="75" color="ad_notes" lat="N0475141147" lon="E0351858849" />
+		<label text="76" color="ad_notes" lat="N0475142429" lon="E0351858996" />
+		<label text="77" color="ad_notes" lat="N0475143725" lon="E0351859778" />
+		<label text="78" color="ad_notes" lat="N0475145100" lon="E0351900609" />
+		<label text="79" color="ad_notes" lat="N0475148563" lon="E0351859425" />
+		<label text="80" color="ad_notes" lat="N0475148977" lon="E0351857970" />
+	<!-- </map>
+	<map group="UKDE" id="RWY_APP" layer="200" name="RWY_APP" text="false" visible="true" threshold="50" > -->
+		<path close="true" stroke_width="1" stroke_color="ad_rwy" fill_color="ad_rwy_sfc">
+		<!-- 02 47.8773595396 35.321441149 - 47.8566141014 35.3085814246-->
+			<point lat="N0475238865" lon="E0351915855"/>
+			<point lat="N0475238122" lon="E0351918520"/>
+			<point lat="N0475123439" lon="E0351832224"/>
+			<point lat="N0475124182" lon="E0351829561"/>
+		</path>
+	</map>
+</maps>
