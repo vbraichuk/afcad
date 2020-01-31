@@ -75,7 +75,7 @@ def print_aurora(elements, types = []):
 			print point['lon'], point['lat']
 
 def main():
-	f_xml = minidom.parse('ukoo/afcad_UKOO.map')
+	f_xml = minidom.parse('ukde/afcad_UKde.map')
 	paths = f_xml.getElementsByTagName('path')
 
 	elements = []
@@ -101,7 +101,7 @@ def main():
 
 	#for element in elements:
 	#	print element['desc']
-	print_geojson(elements, 'ad_stand')
+	print_geojson(elements, 'ad_apron')
 	#print_aurora(elements)
 
 if __name__== "__main__":
